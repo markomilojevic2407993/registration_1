@@ -1,0 +1,36 @@
+*{
+    margin-top: 0px;
+    
+
+
+}
+h1 {
+    margin-top:200px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+p {
+    text-align: center;
+    font-weight: 400;
+}
+.glavni{
+    margin-left:400px ;
+    width: 1000px;
+    height: autopx;
+    /*border: 1px solid black;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+.pomocni{
+    width: 250px;
+    
+    /*border: 1px solid rgb(39, 20, 20);*/
+    
+}
+label{
+    font-size: 25px;
+}
